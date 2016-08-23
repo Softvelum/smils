@@ -1,2 +1,3 @@
-# smils
-Examples of SMIL files for VOD streaming
+# Sample SMIL files
+Examples of SMIL files for VOD streaming via Nimble Streamer
+
