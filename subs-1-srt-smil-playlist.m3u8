@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="sub",NAME="English subs",URI="sample__with__subtitles.srt_subtitle.m3u8?nimblesessionid=65",LANGUAGE="eng"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="sub",NAME="Spanish",URI="sample__with__subtitles__spa.srt_subtitle.m3u8?nimblesessionid=65",LANGUAGE="spa"
+#EXT-X-STREAM-INF:BANDWIDTH=494100,SUBTITLES="sub"
+bigbuckbunny__450.mp4_chunk.m3u8?nimblesessionid=65
+#EXT-X-STREAM-INF:BANDWIDTH=794100,SUBTITLES="sub"
+bigbuckbunny__750.mp4_chunk.m3u8?nimblesessionid=65
+#EXT-X-STREAM-INF:BANDWIDTH=1144100,SUBTITLES="sub"
+bigbuckbunny__1100.mp4_chunk.m3u8?nimblesessionid=65
+#EXT-X-STREAM-INF:BANDWIDTH=1544100,SUBTITLES="sub"
+bigbuckbunny__1500.mp4_chunk.m3u8?nimblesessionid=65
