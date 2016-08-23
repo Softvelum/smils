@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil title="">
+	<body>
+		<switch>
+			<video src="bigbuckbunny_450.mp4">
+				<param name="videoBitrate" value="450000" valuetype="data"></param>
+				<param name="audioBitrate" value="44100" valuetype="data"></param>
+			</video>
+			<video src="bigbuckbunny_750.mp4">
+				<param name="videoBitrate" value="750000" valuetype="data"></param>
+				<param name="audioBitrate" value="44100" valuetype="data"></param>
+			</video>
+			<video src="bigbuckbunny_1100.mp4">
+				<param name="videoBitrate" value="1100000" valuetype="data"></param>
+				<param name="audioBitrate" value="44100" valuetype="data"></param>
+			</video>
+			<video src="bigbuckbunny_1500.mp4">
+				<param name="videoBitrate" value="1500000" valuetype="data"></param>
+				<param name="audioBitrate" value="44100" valuetype="data"></param>
+			</video>
+			<textstream src="sample_with_subtitles_ttml.ttml" systemLanguage="eng,fra,spa,deu,nor">
+			</textstream>
+		</switch>
+	</body>
+</smil>

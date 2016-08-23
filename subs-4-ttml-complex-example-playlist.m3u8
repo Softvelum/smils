@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="sub",NAME="English",URI="sample__with__subtitles__ttml.ttml_subtitle.m3u8?nimblesessionid=195",LANGUAGE="eng"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="sub",NAME="French",URI="sample__with__subtitles__ttml.ttml_frasubtitle.m3u8?nimblesessionid=195",LANGUAGE="fra"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="sub",NAME="Spanish",URI="sample__with__subtitles__ttml.ttml_spasubtitle.m3u8?nimblesessionid=195",LANGUAGE="spa"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="first_group",NAME="English",URI="sample__with__subtitles__ttml__first__group.ttml_subtitle.m3u8?nimblesessionid=195",LANGUAGE="eng"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="first_group",NAME="German",URI="sample__with__subtitles__ttml__first__group.ttml_deusubtitle.m3u8?nimblesessionid=195",LANGUAGE="deu"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="first_group",NAME="Norwegian",URI="sample__with__subtitles__ttml__first__group.ttml_norsubtitle.m3u8?nimblesessionid=195",LANGUAGE="nor"
+#EXT-X-STREAM-INF:BANDWIDTH=494100,SUBTITLES="first_group",LANGUAGE="eng" bigbuckbunny_450_first.mp4_chunk.m3u8?nimblesessionid=195
+#EXT-X-STREAM-INF:BANDWIDTH=794100,SUBTITLES="first_group",LANGUAGE="eng" bigbuckbunny_750_first.mp4_chunk.m3u8?nimblesessionid=195
+#EXT-X-STREAM-INF:BANDWIDTH=494100,SUBTITLES="sub",LANGUAGE="eng" bigbuckbunny_450.mp4_chunk.m3u8?nimblesessionid=195
+#EXT-X-STREAM-INF:BANDWIDTH=794100,SUBTITLES="sub",LANGUAGE="eng" bigbuckbunny_750.mp4_chunk.m3u8?nimblesessionid=195
