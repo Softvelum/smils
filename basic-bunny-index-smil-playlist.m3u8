@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=278000,RESOLUTION=320x180,LANGUAGE="eng"
+sample.mp4/chunk.m3u8?nimblesessionid=59&nimble_video_index=1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=522000,RESOLUTION=640x360,LANGUAGE="chi"
+sample.mp4/chunk.m3u8?nimblesessionid=59&nimble_audio_index=1
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=560000,RESOLUTION=640x360,LANGUAGE="eng"
+sample.mp4/chunk.m3u8?nimblesessionid=59
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=240000,RESOLUTION=320x180,LANGUAGE="chi"
+sample.mp4/chunk.m3u8?nimblesessionid=59&nimble_audio_index=1&nimble_video_index=1

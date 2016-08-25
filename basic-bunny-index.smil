@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil title="">
+	<body>
+		<switch>
+			<video height="180" src="sample.mp4" systemLanguage="eng" width="320">
+				<param name="videoBitrate" value="152000" valuetype="data"></param>
+				<param name="audioBitrate" value="126000" valuetype="data"></param>
+				<param name="audioIndex" value="0" valuetype="data"></param>
+				<param name="videoIndex" value="1" valuetype="data"></param>
+			</video>
+			<video height="360" src="sample.mp4" systemLanguage="chi" width="640">
+				<param name="videoBitrate" value="434000" valuetype="data"></param>
+				<param name="audioBitrate" value="88000" valuetype="data"></param>
+				<param name="audioIndex" value="1" valuetype="data"></param>
+				<param name="videoIndex" value="0" valuetype="data"></param>
+			</video>
+			<video height="360" src="sample.mp4" systemLanguage="eng" width="640">
+				<param name="videoBitrate" value="434000" valuetype="data"></param>
+				<param name="audioBitrate" value="126000" valuetype="data"></param>
+				<param name="audioIndex" value="0" valuetype="data"></param>
+				<param name="videoIndex" value="0" valuetype="data"></param>
+			</video>
+			<video height="360" src="sample.mp4" systemLanguage="chi" width="640">
+				<param name="videoBitrate" value="152000" valuetype="data"></param>
+				<param name="audioBitrate" value="88000" valuetype="data"></param>
+				<param name="audioIndex" value="1" valuetype="data"></param>
+				<param name="videoIndex" value="1" valuetype="data"></param>
+			</video>
+		</switch>
+	</body>
+</smil>
