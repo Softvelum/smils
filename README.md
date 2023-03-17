@@ -7,4 +7,4 @@ Examples of SMIL files for VOD streaming via Nimble Streamer
 
 All "subs" SMIL files and playlists are samples for this article about subtitles support: https://blog.wmspanel.com/2016/08/vod-subtitles-webvtt-srt-ttml-support.html
 
-Take a look at other VOD-related features of Nimble Streamer: https://wmspanel.com/nimble/vod_streaming
+Take a look at other [VOD-related features of Nimble Streamer](https://softvelum.com/nimble/vod_streaming/).
